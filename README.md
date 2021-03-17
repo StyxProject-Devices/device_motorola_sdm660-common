@@ -1,11 +1,15 @@
-Copyright 2018 - The LineageOS Project
+Copyright 2021 - The Styx Project
 
 Device configuration for Motorola SDM660 Devices
 ======================================
 
 Supported devices :
 
-Payton, Evert, Chef, Beckham, Lake
+- Payton
+- Beckham
+- Evert
+- Chef
+- Lake
 
 **This tree has Moto Clock Widget & Moto Live Wallpaper 3 included, for build do this:**
 
